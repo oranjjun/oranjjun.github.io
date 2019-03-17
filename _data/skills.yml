@@ -1,12 +1,33 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# # Organizational leadership
+# - skill: Organizational leadership
+#   description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# # Communications strategy
+# - skill: Communications strategy
+#   description: Content and marketing strategy,
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# # Digital content development and creation
+# - skill: Digital content development and creation
+#   description: Copy writing, graphic design, web design, front-end web development, print design
+
+- skill: Modern technologies
+  description: ES6, ReactJS, Redux, webpack, LoopBack, SemanticUI,
+  GitLab CI/CD, Git
+
+- skill: Enterprise technologies
+  description: Java 8, Spring Boot, Spring Cloud Config, Hibernate,
+  RESTful API, Maven, OAuth OpenID
+
+- skill: Experimental technologies
+  description: Elixir, Phoenix Framework
+
+- skill: Other technologies
+  description: Play! Framework, Q language, SQL, SVN, Linux
+
+- skill: Functional and non-tech
+  description: Prototyping, Digital Banking, Securities Trading, EduTech
+
+- skill: Mentorship and community
+  description: Mentored junior developers on ReactJS/Redux and did a
+  presentation on self-taught Elixir/Phoenix, my first real FP language
